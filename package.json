@@ -13,7 +13,7 @@
     "license": "AGPL-3.0",
     "main": "./lib/server.js",
     "scripts": {
-        "start": "nodemon ./lib/server.js"
+        "start": "node ./lib/server.js"
     },
     "repository": {
         "type": "git",
